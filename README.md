@@ -1,6 +1,4 @@
 # EyeMovement-Exercise
-# EyeMovement-Exercise
-# EyeMovementExercise
 Eye Movement for Github Portfolio Project.
 
 **Project Title:** Eye Movement Exercise
